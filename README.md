@@ -39,9 +39,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1050688576431595572/1254353778187042919/68747470733a2f2f692e706f7374696d672e63632f70587464434d6e792f657a6769662d636f6d2d6769662d6d616b65722d312e676966.gif" width="400">
-</p>
+![cute katze](./assets/katze.gif)
 
 ### 💀 Daily dose of fatherly wisdom:
 ![Dad Joke](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)

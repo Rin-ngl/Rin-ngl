@@ -6,13 +6,13 @@
 
 ### 🧠 cooking (aka fighting my 6GB VRAM GPU):
 - 🧠 Uncensored local LLMs on toaster-tier hardware
-- 🖥️ Making Windows look like Linux, cuz I Arch too hard and refuse to touch anything else
+- 🖥️ Making Windows look like Linux, cuz I Arch too hard and refuse to touch anything else. Check out [custom11](https://github.com/Rin-ngl/custom11)!
 
 ---
 
 ### 🌱 learning things i probably shouldn't be:
 - 🤖 AI finetuning (because why use ChatGPT when you can build your own **shit machine™**)
-- 🎨 UI/UX design — mostly me screaming while AI writes cursed CSS
+- 🎨 UI/UX design, mostly me screaming while AI writes cursed CSS
 - 🧼 Cleaning up 3am spaghetti code with 3% memory of writing it
 
 ---

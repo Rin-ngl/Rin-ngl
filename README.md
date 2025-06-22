@@ -17,17 +17,17 @@
 
 ---
 
-🛠️ current arsenal:
-**Languages:** JavaScript, Python  
-**Frontend:** HTML, CSS  
-**Backend:** Node.js, Flask  
-**Database:** SQLite  
-**AI/ML:** Ollama, OpenRouter.ai *(because why pay everyone individually?)*  
-**DevOps:** Docker, Cloudflared  
-**Tools:** VS Code, Git, WSL, VMware  
-**Package Managers:** npm, pip  
-**Shells:** PowerShell, Bash  
-**Cloud:** Google Cloud *(when it stops rejecting my card 😤)*
+### 🛠️ current arsenal:
+- **Languages:** JavaScript, Python  
+- **Frontend:** HTML, CSS  
+- **Backend:** Node.js, Flask  
+- **Database:** SQLite  
+- **AI/ML:** Ollama, OpenRouter.ai *(because why pay everyone individually?)*  
+- **DevOps:** Docker, Cloudflared  
+- **Tools:** VS Code, Git, WSL, VMware  
+- **Package Managers:** npm, pip  
+- **Shells:** PowerShell, Bash  
+- **Cloud:** Google Cloud *(when it stops rejecting my card 😤)*
 
 ---
 

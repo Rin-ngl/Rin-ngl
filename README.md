@@ -1,12 +1,11 @@
 ## Hi there 👋 I'm Rin
 
-> i do a little coding, a little chaos, and a lot of questioning reality
+> i do a little coding, a little spaghetti code, and a lot of questioning reality
 
 ---
 
 ### 🧠 cooking (aka fighting my 6GB VRAM GPU):
 - 🧠 Uncensored local LLMs on toaster-tier hardware
-- 🧩 Modded Minecraft servers (survival-only — no gods, no ops, just vibes)
 - 🖥️ Making Windows look like Linux, cuz I Arch too hard and refuse to touch anything else
 
 ---

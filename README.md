@@ -17,6 +17,20 @@
 
 ---
 
+🛠️ current arsenal:
+**Languages:** JavaScript, Python  
+**Frontend:** HTML, CSS  
+**Backend:** Node.js, Flask  
+**Database:** SQLite  
+**AI/ML:** Ollama, OpenRouter.ai *(because why pay everyone individually?)*  
+**DevOps:** Docker, Cloudflared  
+**Tools:** VS Code, Git, WSL, VMware  
+**Package Managers:** npm, pip  
+**Shells:** PowerShell, Bash  
+**Cloud:** Google Cloud *(when it stops rejecting my card 😤)*
+
+---
+
 ### 🔥 fun facts:
 - I can only code `print("hello world!")`... and even that needed two StackOverflow tabs
 - Used to live. Now I'm dead. (But funny dead.)

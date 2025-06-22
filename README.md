@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Rin
+## Hi there, I'm Rin 👋
 
 > i do a little coding, a little spaghetti code, and a lot of questioning reality
 
@@ -18,16 +18,16 @@
 ---
 
 ### 🛠️ current arsenal:
-- **Languages:** JavaScript, Python  
-- **Frontend:** HTML, CSS  
-- **Backend:** Node.js, Flask  
-- **Database:** SQLite  
-- **AI/ML:** Ollama, OpenRouter.ai *(because why pay everyone individually?)*  
-- **DevOps:** Docker, Cloudflared  
-- **Tools:** VS Code, Git, WSL, VMware  
-- **Package Managers:** npm, pip  
-- **Shells:** PowerShell, Bash  
-- **Cloud:** Google Cloud *(when it stops rejecting my card 😤)*
+- Languages: JavaScript, Python  
+- Frontend: HTML, CSS  
+- Backend: Node.js, Flask  
+- Database: SQLite  
+- AI/ML: Ollama, OpenRouter.ai *(because why pay everyone individually?)*  
+- DevOps: Docker, Cloudflared  
+- Tools: VS Code, Git, WSL, VMware  
+- Package Managers: npm, pip  
+- Shells: PowerShell, Bash  
+- Cloud: Google Cloud *(when it stops rejecting my card 😤)*
 
 ---
 
@@ -49,5 +49,12 @@
 
 ![cute katze](./assets/katze.gif)
 
+---
+
 ### 💀 Daily dose of fatherly wisdom:
 ![Dad Joke](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
+---
+
+### 💅 hit me up.
+- Discord: rin_ngl

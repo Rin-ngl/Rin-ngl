@@ -45,6 +45,8 @@
 - Memes with lore
 - Hating on NVIDIA while buying more NVIDIA GPUs (it's a toxic relationship)
 
+**Discord:** rin_ngl
+
 ---
 
 ![cute katze](./assets/katze.gif)
@@ -53,8 +55,3 @@
 
 ### 💀 Daily dose of fatherly wisdom:
 ![Dad Joke](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
-
----
-
-### 💅 hit me up.
-- Discord: rin_ngl

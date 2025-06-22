@@ -33,7 +33,7 @@
 
 ### 🔥 fun facts:
 - I can only code `print("hello world!")`... and even that needed two StackOverflow tabs
-- Used to live. Now I'm dead. (But funny dead.)
+- I'm dead inside :3
 - Pronouns: she/her or he/him — just don’t call me *Good boy/girl*
 - I break stuff to learn... then forget how I fixed it
 
@@ -44,11 +44,6 @@
 - Tech rants at 2am with zero structure
 - Memes with lore
 - Hating on NVIDIA while buying more NVIDIA GPUs (it's a toxic relationship)
-
----
-
-> “Not tryna eat your cheeseburgers...  
-> but if you leave them long enough, they *will* disappear into my fat ass.”
 
 ---
 

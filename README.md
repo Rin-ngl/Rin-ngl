@@ -1,6 +1,6 @@
 ## Hi there, I'm Rin 👋
 
-> i do a little coding, a little spaghetti code, and a lot of questioning reality
+> I do a little coding, a little spaghetti code, and a lot of questioning reality
 
 ---
 
@@ -33,16 +33,16 @@
 
 ### 🔥 fun facts:
 - I can only code `print("hello world!")`... and even that needed two StackOverflow tabs
-- I'm dead inside :3
-- Pronouns: she/her or he/him — just don’t call me *Good boy/girl*
+- My sleep schedule is nonexistent
+- Pronouns: she/her or he/him
 - I break stuff to learn... then forget how I fixed it
 
 ---
 
 ### 💬 hit me up if you're into:
 - AI ethics + weird philosophy questions
-- Tech rants at 2am with zero structure
-- Memes with lore
+- Actually into AI and wanna learn more about it and about local AI (I just know a lot about LLMs not other AIs)
+- Tech rants at 2am with structure
 - Hating on NVIDIA while buying more NVIDIA GPUs (it's a toxic relationship)
 
 **Discord:** rin_ngl
@@ -50,8 +50,3 @@
 ---
 
 ![cute katze](./assets/katze.gif)
-
----
-
-### 💀 Daily dose of fatherly wisdom:
-![Dad Joke](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
